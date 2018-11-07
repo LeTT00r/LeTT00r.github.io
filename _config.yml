@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Personal Blog where i conduct acts of creativity and expression of opinion
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/new_main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
